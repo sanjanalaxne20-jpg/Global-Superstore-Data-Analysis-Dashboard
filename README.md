@@ -67,9 +67,3 @@ The dashboard helps identify high-performing regions, categories, products and c
 - Data Visualization
 - Business Intelligence
 - Dashboard Development
-
-## 👩‍💻 Author
-
-**Sanjana Laxne**
-
-Data Analytics | Power BI | Python | SQL
